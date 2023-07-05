@@ -52,6 +52,8 @@ python3 meta.py -o output.png
 ```
 
 
+- Note: The default password for the script to extract the hidden message is - password123. If you want to change it, change the SHA256 hash in the code.
+
 
 **Follow me on**
 
