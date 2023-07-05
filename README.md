@@ -1,5 +1,5 @@
 # Meta
-Meta is a script built in python which is used to covertly communicate over public channels using stegnography techniques. It hides a user's secret message in an image file which then can be uploaded to a subreddit specified by the user using Reddit API. The project is built keeping the idea of covert communication in mind but in the open internet. The traffic on a network can be seen as a regular internet traffic visiting popular social media website like Reddit. It can later be developed as an add-on for Data exfiltration via C2 channels.
+Meta is a script built in python which is used to covertly communicate over public channels using stegnography techniques. It hides a user's secret message in an image file which then can be uploaded to a subreddit specified by the user using Reddit API. The project is built keeping the idea of covert communication in mind using the open internet. The traffic generated on a network will be seen as a regular internet traffic visiting popular social media website like Reddit and will avoid any suspicious flags. This project can later be developed as an add-on for Data exfiltration via C2 channels.
 
 
 
