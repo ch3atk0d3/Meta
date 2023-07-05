@@ -2,6 +2,8 @@
 Meta is a script built in python which is used to covertly communicate over public channels using stegnography techniques. It hides a user's secret message in an image file which then can be uploaded to a subreddit specified by the user using Reddit API. The project is built keeping the idea of covert communication in mind but in the open internet. The traffic on a network can be seen as a regular internet traffic visiting popular social media website like Reddit. It can later be developed as an add-on for Data exfiltration via C2 channels.
 
 
+
+
 **How to Install**
 
 ```
@@ -9,6 +11,8 @@ git clone https://github.com/ch3atk0d3/Meta.git
 cd Meta
 pip3 install -r requirements.txt
 ```
+
+
 
 
 
@@ -31,6 +35,9 @@ pip3 install -r requirements.txt
 
 ```
 
+
+
+
 **Usage**
 
 ```
@@ -43,6 +50,8 @@ python3 meta.py -i <image file name> -o output.png
 python3 meta.py -o output.png
 
 ```
+
+
 
 **Follow me on**
 
